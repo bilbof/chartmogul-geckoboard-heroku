@@ -1,0 +1,25 @@
+{
+    "name": "chartmogul-geckoboard",
+    "description": "A ChartMogul library for Geckoboard",
+    "keywords": ["ChartMogul", "Geckoboard", "Node"],
+    "website": "https://github.com/bilbof/chartmogul-geckoboard",
+    "success_url": "/",
+    "env": {
+        "GECKOBOARD_ACCOUNT_API_KEY": {
+            "description": "You can find this at https://.geckoboard.com/account/details",
+            "required": true
+        },
+        "CHARTMOGUL_ACCOUNT_API_TOKEN": {
+            "description": "You can find this at https://app.chartmogul.com/#admin/api",
+            "required": true
+        },
+        "CHARTMOGUL_ACCOUNT_SECRET_KEY": {
+            "description": "You can find this at https://app.chartmogul.com/#admin/api",
+            "required": true
+        },
+        "GECKOBOARD_ACCOUNT_WIDGET_KEY": {
+            "description": "You can find this on your Geckoboard widget set up page",
+            "required": true
+        }
+    }
+}

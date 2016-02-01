@@ -5,6 +5,7 @@
     "website": "https://github.com/bilbof/chartmogul-geckoboard-heroku",
     "success_url": "/",
     "env": {
+        "PORT": 5000,
         "GECKOBOARD_ACCOUNT_API_KEY": {
             "description": "You can find this at https://<subdomain>.geckoboard.com/account/details",
             "required": true

@@ -7,25 +7,12 @@ var port = process.env.PORT || 5000;
 // Your personal settings /////
 ///////////////////////////////
 
-var GECKOBOARD_ACCOUNT_API_KEY = process.env.GECKOBOARD_ACCOUNT_API_KEY;
-var GECKOBOARD_ACCOUNT_WIDGET_KEY = process.env.GECKOBOARD_ACCOUNT_WIDGET_KEY;
-
-var CHARTMOGUL_ACCOUNT_API_TOKEN = process.env.CHARTMOGUL_ACCOUNT_API_TOKEN;
-var CHARTMOGUL_ACCOUNT_SECRET_KEY = process.env.CHARTMOGUL_ACCOUNT_SECRET_KEY;
-
-// console.log(config);
-
 // Geckoboard API key
 var geckoKey = process.env.GECKOBOARD_ACCOUNT_API_KEY; // You can find this at https://.geckoboard.com/account/details
 
 // ChartMogul API keys. Found at https://app.chartmogul.com/#admin/api (admin permission required).
 var chartmogulApiToken = process.env.CHARTMOGUL_ACCOUNT_API_TOKEN;
 var chartmogulSecretKey = process.env.CHARTMOGUL_ACCOUNT_SECRET_KEY;
-
-
-console.log(GECKOBOARD_ACCOUNT_API_KEY, GECKOBOARD_ACCOUNT_WIDGET_KEY, CHARTMOGUL_ACCOUNT_API_TOKEN, CHARTMOGUL_ACCOUNT_SECRET_KEY);
-
-
 
 // Data refresh rate. How often you want to send fresh data to your Geckoboard (in milliseconds).
 var refreshRate = 15000; 

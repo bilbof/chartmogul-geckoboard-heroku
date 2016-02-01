@@ -2,7 +2,7 @@
     "name": "chartmogul-geckoboard",
     "description": "A ChartMogul library for Geckoboard",
     "keywords": ["ChartMogul", "Geckoboard", "Node"],
-    "website": "https://github.com/bilbof/chartmogul-geckoboard",
+    "website": "https://github.com/bilbof/chartmogul-geckoboard-heroku",
     "success_url": "/",
     "env": {
         "GECKOBOARD_ACCOUNT_API_KEY": {

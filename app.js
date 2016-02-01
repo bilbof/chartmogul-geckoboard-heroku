@@ -148,10 +148,10 @@ function refresh() {
     setTimeout(refresh,refreshRate);
 }
 
-https.createServer(function (request, response) {
-
 	refresh();
 
+
+https.createServer(function (request, response) {
 }).listen(process.env.PORT || 5000);
 
 

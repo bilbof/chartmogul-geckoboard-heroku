@@ -18,9 +18,9 @@ Follow these steps to integrate your ChartMogul MRR graph into your Geckoboard:
   
   Click 'Save'.
 
-**2. Create a Heroku acount:
+**2. Create a Heroku acount:**
     
-  [Sign up here](https://heroku.com/)**
+  [Sign up here](https://heroku.com/)
 
 **3. Click the Heroku deploy button:**
 

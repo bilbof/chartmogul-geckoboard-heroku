@@ -1,6 +1,5 @@
 var https = require("https");
 var Geckoboard = require('geckoboard-push');
-// var config = require('./config');
 var port = 5000;
 
 ///////////////////////////////

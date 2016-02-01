@@ -12,7 +12,7 @@ Follow these steps to integrate your ChartMogul MRR graph into your Geckoboard:
   
   ![](chart.png)
 
-  Select 'Push' as the Method.
+  Select 'Push' as the Method and click 'Add Widget'.
   
   Copy the Widget key for step 4.
   

@@ -6,7 +6,7 @@
     "success_url": "/",
     "env": {
         "GECKOBOARD_ACCOUNT_API_KEY": {
-            "description": "You can find this at https://.geckoboard.com/account/details",
+            "description": "You can find this at https://<subdomain>.geckoboard.com/account/details",
             "required": true
         },
         "CHARTMOGUL_ACCOUNT_API_TOKEN": {

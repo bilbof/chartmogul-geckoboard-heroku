@@ -36,9 +36,9 @@ Follow these steps to integrate your ChartMogul MRR graph into your Geckoboard:
 
   Your Geckoboard Widget Key can be found on the Line Chart customization page (step 1).
 
-**5. View your Geckoboard
+**5. View your Geckoboard**
 
-  The MRR Line Chart should be now updating.**
+  The MRR Line Chart should be now updating.
 
   ![](line_chart.png)
 

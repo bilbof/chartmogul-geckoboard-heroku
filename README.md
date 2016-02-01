@@ -6,7 +6,7 @@ A simple ChartMogul - Geckoboard integration written in Node.js: The one-click H
 
 Follow these steps to integrate your ChartMogul MRR graph into your Geckoboard:
 
-**1. Create a custom **Line Chart widget in your Geckoboard.**
+**1. Create a custom Line Chart widget in your Geckoboard.**
 
   In your Geckoboard dashboard click Add Widget > Custom Widget > Line Chart.
   

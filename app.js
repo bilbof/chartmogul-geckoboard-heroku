@@ -1,6 +1,5 @@
 var https = require("https");
 var Geckoboard = require('geckoboard-push');
-var port = 5000;
 
 ///////////////////////////////
 // Your personal settings /////
@@ -148,18 +147,3 @@ function refresh() {
 }
 
 	refresh();
-
-
-https.createServer(function (request, response) {
-}).listen(process.env.PORT || 5000);
-
-
-
-
-
-
-
-
-
-
-
